@@ -1,5 +1,3 @@
-#unsupervised-customer-segmentation
-
 ## Description
 This project conducts an in-depth analysis of customer data to identify distinct segments, enabling targeted marketing recommendations. The methodology primarily employs unsupervised machine learning techniques.
 
