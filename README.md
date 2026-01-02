@@ -1,4 +1,4 @@
-# Customer Segmentation Project
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c764a02f-79cf-4f0c-a447-4d9017b3ddb7" /># Customer Segmentation Project
 
 ## Description
 This project conducts an in-depth analysis of customer data to identify distinct segments, enabling targeted marketing recommendations. The methodology primarily employs unsupervised machine learning techniques.
@@ -37,6 +37,10 @@ The analytical process is structured into the following key phases:
 4.  **Visualization**:
     *   Creation of various plots and charts to visually represent and characterize the identified customer clusters, facilitating interpretation and understanding of segment profiles.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d0f62196-9d55-42b7-8e3e-9a49a5ffb40b" />
+
+
+
 ## Customer Cluster Profiles and Marketing Strategies
 
 ### Cluster 0: The Established Family
@@ -62,3 +66,4 @@ The analytical process is structured into the following key phases:
 *   **Marketing Strategy Recommendations**:
     *   **Goal**: To maximize savings and promote large-volume purchasing.
     *   **Action**: Prioritize marketing of store-brand/private-label products across all categories to underscore better value. Promote bulk buying options (e.g., large family-sized packages) and extensively publicize weekly circular sales. Implement a loyalty program that provides high-value points or immediate cash-off rewards to encourage repeat visits driven by essential cost savings.
+---
