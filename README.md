@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c764a02f-79cf-4f0c-a447-4d9017b3ddb7" /># Customer Segmentation Project
+#unsupervised-customer-segmentation
 
 ## Description
 This project conducts an in-depth analysis of customer data to identify distinct segments, enabling targeted marketing recommendations. The methodology primarily employs unsupervised machine learning techniques.
